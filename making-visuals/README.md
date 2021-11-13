@@ -13,8 +13,7 @@ There is nothing here for the introduction.
 
 **Key Takeaways**
 * make use of [canvas-sketch](https://github.com/mattdesl/canvas-sketch) and [canvas-sketch-util](https://github.com/mattdesl/canvas-sketch-util)
-* Saving images with `canvas-sketch` renders them twice if the background is transparent.
-  It needs to investigated whether this is a bug or a feature.
+* Saving images with `canvas-sketch` renders them twice if the background is transparent. (see this issue for fomr details [#25](https://github.com/mattdesl/canvas-sketch/issues/25))
 
 **Results:**
 * [sketch-01.js](sketch-01.js)
