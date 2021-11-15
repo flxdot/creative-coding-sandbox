@@ -20,6 +20,9 @@ There is nothing here for the introduction.
 
 ### Unit 3 - Sketch Transform
 
+**Results:**
+* [sketch-02.js](sketch-02.js)
+
 ### Unit 4 - Sketch Agents
 
 ### Unit 5 - Sketch Noise
